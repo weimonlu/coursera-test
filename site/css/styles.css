@@ -1,0 +1,37 @@
+body {
+	background: white;
+}
+p {
+	color:  red;
+}
+
+
+.navbar-brand {
+	padding-top:  25px;
+}
+
+.navbar-brand h1 {
+	font-family: 'Staatliches', serif;
+	color: #e1ad01;
+	font-size: 2em;
+	margin-top:  0;
+	margin-bottom: 0;
+	padding: 0px 0px 0px 50px;
+}
+
+.navbar-brand a {
+	text-decoration:  none;
+}
+
+.nav-item {
+	font-family: 'Staatliches', serif;
+	font-size: 1.5em;
+	padding:  10px;
+	color:  #e1ad01;
+	margin-top: 10px;
+}
+
+.navbar {
+	padding: 50px;
+	background-color: white;
+}
