@@ -1,14 +1,9 @@
 body {
 	background: white;
 }
-p {
-	color:  red;
-}
 
 
-.navbar-brand {
-	padding-top:  25px;
-}
+
 
 .navbar-brand h1 {
 	font-family: 'Staatliches', serif;
@@ -16,22 +11,49 @@ p {
 	font-size: 2em;
 	margin-top:  0;
 	margin-bottom: 0;
-	padding: 0px 0px 0px 50px;
+	/*padding: 0px 0px 0px 50px;*/
 }
 
 .navbar-brand a {
 	text-decoration:  none;
 }
 
-.nav-item {
+.nav-item a {
 	font-family: 'Staatliches', serif;
 	font-size: 1.5em;
-	padding:  10px;
+	padding-left:  20px;
 	color:  #e1ad01;
 	margin-top: 10px;
 }
 
 .navbar {
-	padding: 50px;
+	padding-top: 50px;
+	padding-bottom:  50px;
+	padding-left:  0px;
+	padding-right:  0px;
 	background-color: white;
+}
+
+.nav-item a:hover {
+	text-decoration: none;
+	color:  pink;
+}
+
+.navbar-light .navbar-toggler {
+	border-color: #e1ad01;
+}
+
+.container .jumbotron {
+	height: 360px;
+	padding: 0;
+}
+
+img {
+	max-width: 100%;
+	max-height: 100%;
+}
+
+.col-md-5 {
+	padding-left: 0px;
+	padding-right: 0px;
 }
