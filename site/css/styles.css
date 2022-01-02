@@ -48,7 +48,7 @@ body {
 	padding: 0;
 }
 
-img {
+img.col-md-5 {
 	max-width: 100%;
 	max-height: 100%;
 }
@@ -56,4 +56,14 @@ img {
 .col-md-5 {
 	padding-left: 0px;
 	padding-right: 0px;
+}
+
+.jumbotron, #greeting-text {
+	display: flex;
+	align-items: center;
+	background-color: transparent;
+}
+
+#greeting-text {
+	color:  #e1ad01;
 }
