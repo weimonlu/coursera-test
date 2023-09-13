@@ -1,8 +1,8 @@
 {
-	"Question 1": [
+	"question1": [
 		{
-			"Question": "When is dinner time?",
-			"Answers": [
+			"question": "When is dinner time?",
+			"answers": [
 				{
 					"Answer 1": "All the time.",
 					"Answer 2": "6pm sharp.",
@@ -12,10 +12,10 @@
 			]
 		}
 	],
-	"Question 2": [
+	"question2": [
 		{
-			"Question": "What's your favorite daytime activity?",
-			"Answers": [
+			"question": "What's your favorite daytime activity?",
+			"answers": [
 				{
 					"Answer 1": "Sleeeeeeeeep.",
 					"Answer 2": "Wedging myself into new spaces.",
