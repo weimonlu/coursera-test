@@ -14,5 +14,23 @@
 			"Staring at the humans, judgingly."
 		]
 
+	},
+	{
+		"Question": "You see a bird outside, what do you do?",
+		"Answers": ["Run up to the window and chatter -- that bird is mine!",
+			"Look from where I, the bird is not worth getting excited over.",
+			"Why would I be a looking at a bird and not at my empty food bowl?!",
+			"I'm probably sleeping."
+		]
+
+	},
+	{
+		"Question": "What do the humans say is your worst quality?",
+		"Answers": ["I'm a plant eater. No house plant is safe.",
+			"Hands and feet are just another toy for me to play with.",
+			"Sometimes I'll just throw up.",
+			"I'm actually perfect and how dare you insinuate that I'm not."
+		]
+
 	}
 ]
