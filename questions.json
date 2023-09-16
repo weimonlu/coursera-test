@@ -1,7 +1,7 @@
 [{
 		"Question": "When is dinner time?",
-		"Answers": ["All the time.",
-			"6pm sharp.",
+		"Answers": ["6pm sharp",
+			"I'm more of a grazer.",
 			"I prefer to play with my food instead of eat my food.",
 			"Until the humans relent with my constant meowing."
 		]
@@ -18,7 +18,7 @@
 	{
 		"Question": "You see a bird outside, what do you do?",
 		"Answers": ["Run up to the window and chatter -- that bird is mine!",
-			"Look from where I, the bird is not worth getting excited over.",
+			"Look quietly from where I am, the bird is not worth getting excited over.",
 			"Why would I be a looking at a bird and not at my empty food bowl?!",
 			"I'm probably sleeping."
 		]

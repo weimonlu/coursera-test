@@ -1,0 +1,16 @@
+[
+	{
+		"cat": "Smokey",
+		"choices": ["I prefer to play with my food instead of eat my food.",
+			"Staring at the humans, judgingly.",
+			"Look quietly from where I am, the bird is not worth getting excited over.",
+			"Sometimes I'll just throw up."]
+	},
+	{
+		"cat": "Hyacinth",
+		"choices": ["I'm more of a grazer.",
+			"Sleeeeeeeeep.",
+			"I'm probably sleeping.",
+			"I'm actually perfect and how dare you insinuate that I'm not."]
+	}
+]
