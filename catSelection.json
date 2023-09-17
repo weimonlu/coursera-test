@@ -5,7 +5,8 @@
 			"Look quietly from where I am, the bird is not worth getting excited over.",
 			"Sometimes I'll just throw up."
 		],
-		"bio": "Smokey was the first foster cat that started it all! He was a shy but playful boy. He loved batting around pieces of his Meow Mix as if they were hockey pucks. Smokey loved to lay on you in the morning meow for his wet food at night."
+		"bio": "Smokey was the first foster cat that started it all! He was a shy but playful boy. He loved batting around pieces of his Meow Mix as if they were hockey pucks. Smokey loved to lay on you in the morning meow for his wet food at night.",
+		"img": "photos/smokey.jpeg"
 	},
 	{
 		"cat": "Hyacinth",
@@ -14,6 +15,7 @@
 			"I'm probably sleeping.",
 			"I'm actually perfect and how dare you insinuate that I'm not."
 		],
-		"bio": "Hyacinth (formally Hilda) was the sweetest old lady at 14 years old. She loved and trusted everyone. She loved licking your hands and face. She was a thin girl at 5 pounds and had a mass on her eye that was scheduled to be removed after she gained enought weight to go in for surgery. Unfortunately, she passed before she could make it. Rest in peace, Hyacinth."
+		"bio": "Hyacinth (formally Hilda) was the sweetest old lady at 14 years old. She loved and trusted everyone. She loved licking your hands and face. She was a thin girl at 5 pounds and had a mass on her eye that was scheduled to be removed after she gained enought weight to go in for surgery. Unfortunately, she passed before she could make it. Rest in peace, Hyacinth.",
+		"img": "photos/hyacinth.jpeg"
 	}
 ]
