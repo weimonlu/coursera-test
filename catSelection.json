@@ -1,21 +1,62 @@
-[{
+[
+	{
 		"cat": "Smokey",
 		"choices": ["I prefer to play with my food instead of eat my food.",
 			"Staring at the humans, judgingly.",
+			"My 4 am play session with all my toys."
 			"Look quietly from where I am, the bird is not worth getting excited over.",
-			"Sometimes I'll just throw up."
-		],
-		"bio": "Smokey was the first foster cat that started it all! He was a shy but playful boy. He loved batting around pieces of his Meow Mix as if they were hockey pucks. Smokey loved to lay on you in the morning meow for his wet food at night.",
-		"img": "photos/smokey.jpeg"
+			"Sometimes I'll just throw up.",
+			"Surprisingly high-pitched.",
+			"I am literally the cutest."],
+		"bio" : "Smokey was the first foster cat that started it all! He was a shy but playful boy. He loved batting around pieces of his Meow Mix as if they were hockey pucks. Smokey loved to lay on you in the morning meow for his wet food at night.",
+		"img" : "photos/smokey.jpeg"
 	},
 	{
 		"cat": "Hyacinth",
 		"choices": ["I'm more of a grazer.",
 			"Sleeeeeeeeep.",
+			"Transitioning from my resting place on the couch to my resting place on the bed.",
 			"I'm probably sleeping.",
-			"I'm actually perfect and how dare you insinuate that I'm not."
-		],
-		"bio": "Hyacinth (formally Hilda) was the sweetest old lady at 14 years old. She loved and trusted everyone. She loved licking your hands and face. She was a thin girl at 5 pounds and had a mass on her eye that was scheduled to be removed after she gained enought weight to go in for surgery. Unfortunately, she passed before she could make it. Rest in peace, Hyacinth.",
-		"img": "photos/hyacinth.jpeg"
+			"I'm actually perfect and how dare you insinuate that I'm not.",
+			"MEAAAAH.",
+			"I am literally the cutest."],
+		"bio" : "Hyacinth (formerly named Hilda) was the sweetest old lady at 14 years old. She loved and trusted everyone. She loved licking your hands and face. She was a thin girl at 5 pounds and had a mass on her eye that was scheduled to be removed after she gained enought weight to go in for surgery. Unfortunately, she passed before she could make it. Rest in peace, Hyacinth.",
+		"img" : "photos/hyacinth.jpeg"
+	},
+	{
+		"cat": "Bo",
+		"choices": ["6pm sharp.",
+			"I like to lie on keyboards and walk across the screen on zoom meetings.",
+			"I get the zoomies as soon as the sun goes down.",
+			"Run up to the window and chatter -- that bird is mine!",
+			"I'm a plant eater. No house plant is safe.",
+			"I kind of sound like an old man grunting.",
+			"I am the best lap cat around."],
+		"bio" : "Bo (formerly named Jack) is the strongest cat I've fostered. He was placed into foster because he was showing signs of fear at the shelter, and he immediately called his new place home. He loved sprawling on keyboards and being the center of attention. This handsome kitty was quickly adopted.",
+		"img" : "photos/bo.jpeg"
+	},
+	{
+		"cat": "Tango",
+		"choices": ["I like to steal food from the humans, so whenever they eat.",
+			"Staring at the humans, judgingly.",
+			"Getting my nightly treat before bed.",
+			"Look quietly from where I am, the bird is not worth getting excited over.",
+			"I'm a plant eater. No house plant is safe.",
+			"I kind of sound like an old man grunting.",
+			"I am a cat, what more do you want?"],
+		"bio" : "Tango's stay with us was short but memorable. He wouldn't eat his prescription food, but would steal Eggo waffles and tortilla chips right out of our hands. He was a very determined kitty and turned a doorknob on a closed door and escapted the bedroom.",
+		"img" : "photos/tango.jpeg"
+	},
+	{
+		"cat": "Dexter",
+		"choices": ["6pm sharp.",
+			"Staring at the humans, judgingly.",
+			"Getting my nightly treat before bed.",
+			"Why would I be a looking at a bird and not at my empty food bowl?!",
+			"I'm actually perfect and how dare you insinuate that I'm not.",
+			"I chirp like a bird.",
+			"I am a cat, what more do you want?"],
+		"bio" : "Dexter was a big boy with a gentle personality. He was diagnosed with FLUTD (Feline lower urinary tract disease), but he didn't let that stop him! He was a shy boy that loved cuddles from his preferred human, and sometimes he would settle for his second favorite human. He was very expressive, and his most distinctive meow was his 'give me my wet food meow'.",
+		"img" : "photos/dexter.jpeg"
 	}
 ]

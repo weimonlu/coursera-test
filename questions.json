@@ -1,17 +1,26 @@
 [{
 		"Question": "When is dinner time?",
-		"Answers": ["6pm sharp",
+		"Answers": ["6pm sharp.",
 			"I'm more of a grazer.",
-			"I prefer to play with my food instead of eat my food.",
-			"Until the humans relent with my constant meowing."
+			"I prefer to play with my food instead of eating my food.",
+			"I like to steal food from the humans, so whenever they eat."
 		]
 	},
 	{
 		"Question": "What's your favorite daytime activity?",
 		"Answers": ["Sleeeeeeeeep.",
-			"Wedging myself into new spaces.",
-			"Meowing at the birds.",
+			"I like to lie on keyboards and walk across the screen on zoom meetings.",
+			"Looking out the window, surveying the kingdom.",
 			"Staring at the humans, judgingly."
+		]
+
+	},
+	{
+		"Question": "What's your favorite nighttime activity?",
+		"Answers": ["I get the zoomies as soon as the sun goes down.",
+			"Getting my nightly treat before bed.",
+			"Transitioning from my resting place on the couch to my resting place on the bed.",
+			"My 4 am play session with all my toys."
 		]
 
 	},
@@ -30,6 +39,24 @@
 			"Hands and feet are just another toy for me to play with.",
 			"Sometimes I'll just throw up.",
 			"I'm actually perfect and how dare you insinuate that I'm not."
+		]
+
+	},
+	{
+		"Question": "What does your meow sound like?",
+		"Answers": ["Surprisingly high-pitched.",
+			"MEAAAAH.",
+			"I chirp like a bird.",
+			"I kind of sound like an old man grunting."
+		]
+
+	},
+	{
+		"Question": "What's your distinguishing personality trait that will get you adopted?",
+		"Answers": ["I am literally the cutest.",
+			"I am the best lap cat around.",
+			"I'll pretty much be your best friend if you feed me.",
+			"I am a cat, what more do you want?"
 		]
 
 	}
