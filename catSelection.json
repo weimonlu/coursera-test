@@ -44,7 +44,7 @@
 			"I'm a plant eater. No house plant is safe.",
 			"I kind of sound like an old man grunting.",
 			"I am a cat, what more do you want?"],
-		"bio" : "Tango's stay with us was short but memorable. He wouldn't eat his prescription food, but would steal Eggo waffles and tortilla chips right out of our hands. He was a very determined kitty and turned a doorknob on a closed door and escapted the bedroom.",
+		"bio" : "Tango's stay with us was short but memorable. He wouldn't eat his prescription food, but would steal Eggo waffles and tortilla chips right out of our hands. He was a very determined kitty and once turned a doorknob on a closed door and escapted the bedroom.",
 		"img" : "photos/tango.jpeg"
 	},
 	{
@@ -58,5 +58,42 @@
 			"I am a cat, what more do you want?"],
 		"bio" : "Dexter was a big boy with a gentle personality. He was diagnosed with FLUTD (Feline lower urinary tract disease), but he didn't let that stop him! He was a shy boy that loved cuddles from his preferred human, and sometimes he would settle for his second favorite human. He was very expressive, and his most distinctive meow was his 'give me my wet food meow'.",
 		"img" : "photos/dexter.jpeg"
+	},
+	{
+		"cat": "Luther",
+		"choices": ["I'm more of a grazer.",
+			"I like to lie on keyboards and walk across the screen on zoom meetings.",
+			"Transitioning from my resting place on the couch to my resting place on the bed.",
+			"I'm probably sleeping.",
+			"I'm a plant eater. No house plant is safe.",
+			"Surprisingly high-pitched.",
+			"I am the best lap cat around."],
+		"bio" : "Luther stayed with us only a few days before he found his forever home. He was the cuddliest cat and would regularly fall asleep in the closest lap. He loved humans and especially enjoyed sleeping under the covers at night.",
+		"img" : "photos/luther.jpeg"
+	},
+	{
+		"cat": "Cupcake",
+		"choices": ["6pm sharp.",
+			"Staring at the humans, judgingly.",
+			"Getting my nightly treat before bed.",
+			"Why would I be a looking at a bird and not at my empty food bowl?!",
+			"I'm a plant eater. No house plant is safe.",
+			"MEAAAAH.",
+			"I am a cat, what more do you want?"],
+		"bio" : "Edna (true name Cupcake) was found on the streets of Pittsburgh. Suspected to be a lost cat, the rescue organization did their super sleuthing and found her owners who had been looking for her for weeks since she escaped. On a snowy night, she was returned to her owners who were overjoyed to have her back. In her relatively short time in foster, her most distinctive trait was her appetite. You could not walk anywhere without her following you and demanding food.",
+		"img" : "photos/maya.jpeg"
+	},
+	{
+		"cat": "Maya",
+		"choices": ["I'm more of a grazer.",
+			"Staring at the humans, judgingly.",
+			"I get the zoomies as soon as the sun goes down.",
+			"Look quietly from where I am, the bird is not worth getting excited over.",
+			"Hands and feet are just another toy for me to play with.",
+			"MEAAAAH.",
+			"I'll pretty much be your best friend if you feed me."],
+		"bio" : "Maya stayed under the bed for eight days straight when I first started fostering her. It took time for her to get comfortable, but she became the sassiest cat I've fostered. Her favorite toys were anything filled with catnip.",
+		"img" : "photos/maya.jpeg"
 	}
+	
 ]
